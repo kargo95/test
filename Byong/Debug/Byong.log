@@ -1,0 +1,11 @@
+﻿  Byong.cpp
+c:\users\it학부\source\repos\byong\byong\byong.cpp(8): error C2855: '/d1safedelete' 명령줄 옵션이 미리 컴파일된 헤더와 일치하지 않습니다.
+c:\users\it학부\source\repos\byong\byong\byong.cpp(8): error C2855: '/d1autoclassinit' 명령줄 옵션이 미리 컴파일된 헤더와 일치하지 않습니다.
+c:\users\it학부\source\repos\byong\byong\byong.cpp(8): error C2855: '/sdl' 명령줄 옵션이 미리 컴파일된 헤더와 일치하지 않습니다.
+c:\users\it학부\source\repos\byong\byong\byong.cpp(8): warning C4651: 미리 컴파일된 헤더에 대해 '/D_GUARDOVERFLOW_CRT_ALLOCATORS=1'을(를) 지정했으나 현재 컴파일에 대해서는 지정하지 않았습니다.
+c:\users\it학부\source\repos\byong\byong\byong.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\it학부\source\repos\byong\byong\byong.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\it학부\source\repos\byong\byong\byong.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
